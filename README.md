@@ -1,3 +1,7 @@
+<h2>University of Minho - Natural Language Processing (NLP)</h2>
+
+This was an Study of a Master's course, about Python libraries like SpaCy for Natural Language Processing. 
+
 <h1>Processamento de Linguagem Natural</h1>
 
 <p>1 - Listar as obras de Camilo existentes na pasta Obra / do nosso repositório. Ou seja apresentar a lista dos ficheiros de texto existentes nessa pasta.
